@@ -1,34 +1,44 @@
 {
   "data": [
     {
-      "matpel": "TIK"
+      "id": "tik",
+      "nama": "TIK"
     },
     {
-      "matpel": "Bahasa Inggris"
+      "id": "bing",
+      "nama": "Bahasa Inggris"
     },
     {
-      "matpel": "Bahasa Indonesia"
+      "id": "bindo",
+      "nama": "Bahasa Indonesia"
     },
     {
-      "matpel": "Bahasa Jawa"
+      "id": "bjawa",
+      "nama": "Bahasa Jawa"
     },
     {
-      "matpel": "PKN"
+      "id": "pkn",
+      "nama": "PKN"
     },
     {
-      "matpel": "IPS"
+      "id": "ips",
+      "nama": "IPS"
     },
     {
-      "matpel": "IPA"
+      "id": "ipa",
+      "nama": "IPA"
     },
     {
-      "matpel": "Aqidah"
+      "id": "aqidah",
+      "nama": "Aqidah"
     },
     {
-      "matpel": "Akhlak"
+      "id": "akhlak",
+      "nama": "Akhlak"
     },
     {
-      "matpel": "Quran"
+      "id": "quran",
+      "nama": "Quran"
     }
   ]
 }
